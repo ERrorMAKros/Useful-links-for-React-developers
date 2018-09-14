@@ -8,9 +8,6 @@ https://medium.com/@apolyntsev/9-%D0%BF%D1%80%D0%B8%D0%BD%D1%86%D0%B8%D0%BF%D0%B
 * [Создание и защита твоего первого приложения [EN]](https://auth0.com/blog/react-tutorial-building-and-securing-your-first-app/)
 * [React Router 4 практическое руководство[EN]](https://auth0.com/blog/react-router-4-practical-tutorial/)
 
-
-https://auth0.com/blog/react-router-4-practical-tutorial/
-
 Работа с формами
 ------------------------
 * [Работа с формами в React.js, используя базовый инструментарий [RU]](https://habr.com/post/421817/)
