@@ -8,6 +8,7 @@ https://medium.com/@apolyntsev/9-%D0%BF%D1%80%D0%B8%D0%BD%D1%86%D0%B8%D0%BF%D0%B
 * [Создание и защита твоего первого приложения [EN]](https://auth0.com/blog/react-tutorial-building-and-securing-your-first-app/)
 * [React Router 4 практическое руководство[EN]](https://auth0.com/blog/react-router-4-practical-tutorial/)
 * [Reach UI, набор доступных компонентов для приложений на React[EN]](https://ui.reach.tech/)
+* [Валидация React Component Props с помощью prop-types[EN]](https://blog.logrocket.com/validating-react-component-props-with-prop-types-ef14b29963fc)
 
 Работа с формами
 ------------------------
