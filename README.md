@@ -1,15 +1,17 @@
 # Полезные ссылки для React разработчиков
 
 * [Хорошие практики написания кода с React и Redux [EN]](https://blog.scottlogic.com/2018/08/28/Good-code-practices-with-React-and-Redux.html)
-* [Все фундаментальные принципы React.js, собранные в одной статье [RU]](https://medium.com/@divermak/%D0%B2%D1%81%D0%B5-%D1%84%D1%83%D0%BD%D0%B4%D0%B0%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5-%D0%BF%D1%80%D0%B8%D0%BD%D1%86%D0%B8%D0%BF%D1%8B-react-js-%D1%81%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5-%D0%B2-%D0%BE%D0%B4%D0%BD%D0%BE%D0%B9-%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B5-ec6a97bfd1bf)
 * [Props и PropTypes в React [EN]](https://css-tricks.com/props-and-proptypes-in-react/)
 * [Основные возможности и тонкости JavaScript, о которых нужно знать при работе с React [EN]](https://www.robinwieruch.de/javascript-fundamentals-react-requirements/)
-* [React Performance – полное руководство по оптимизации основных проблем производительности в React [RU]](
-https://medium.com/@apolyntsev/9-%D0%BF%D1%80%D0%B8%D0%BD%D1%86%D0%B8%D0%BF%D0%BE%D0%B2-%D0%BA%D0%BE%D1%82%D0%BE%D1%80%D1%8B%D0%B5-%D0%B4%D0%BE%D0%BB%D0%B6%D0%B5%D0%BD-%D0%B7%D0%BD%D0%B0%D1%82%D1%8C-%D0%BD%D0%BE%D0%B2%D0%B8%D1%87%D0%BE%D0%BA-%D0%B2-react-js-454e964062b)
 * [Создание и защита твоего первого приложения [EN]](https://auth0.com/blog/react-tutorial-building-and-securing-your-first-app/)
 * [React Router 4 практическое руководство [EN]](https://auth0.com/blog/react-router-4-practical-tutorial/)
 * [Reach UI, набор доступных компонентов для приложений на React [EN]](https://ui.reach.tech/)
 * [Валидация React Component Props с помощью prop-types [EN]](https://blog.logrocket.com/validating-react-component-props-with-prop-types-ef14b29963fc)
+
+* [Все фундаментальные принципы React.js, собранные в одной статье [RU]](https://medium.com/@divermak/%D0%B2%D1%81%D0%B5-%D1%84%D1%83%D0%BD%D0%B4%D0%B0%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5-%D0%BF%D1%80%D0%B8%D0%BD%D1%86%D0%B8%D0%BF%D1%8B-react-js-%D1%81%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5-%D0%B2-%D0%BE%D0%B4%D0%BD%D0%BE%D0%B9-%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B5-ec6a97bfd1bf)
+* [React Performance – полное руководство по оптимизации основных проблем производительности в React [RU]](
+https://medium.com/@apolyntsev/9-%D0%BF%D1%80%D0%B8%D0%BD%D1%86%D0%B8%D0%BF%D0%BE%D0%B2-%D0%BA%D0%BE%D1%82%D0%BE%D1%80%D1%8B%D0%B5-%D0%B4%D0%BE%D0%BB%D0%B6%D0%B5%D0%BD-%D0%B7%D0%BD%D0%B0%D1%82%D1%8C-%D0%BD%D0%BE%D0%B2%D0%B8%D1%87%D0%BE%D0%BA-%D0%B2-react-js-454e964062b)
+* [Функциональный setState() — это будущее React. [RU]](https://blog.logrocket.com/validating-react-component-props-with-prop-types-ef14b29963fc)
 
 Работа с формами
 ------------------------
