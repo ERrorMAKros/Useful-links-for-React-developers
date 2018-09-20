@@ -17,4 +17,6 @@ https://medium.com/@apolyntsev/9-%D0%BF%D1%80%D0%B8%D0%BD%D1%86%D0%B8%D0%BF%D0%B
 ------------------------
 * [Работа с формами в React.js, используя базовый инструментарий [RU]](https://habr.com/post/421817/)
 
-
+Анимация
+------------------------
+* [Анимирование React-компонентов при помощи CSS и Styled-Components [RU]](https://codeburst.io/animating-react-components-with-css-and-styled-components-cc5a0585f105)
