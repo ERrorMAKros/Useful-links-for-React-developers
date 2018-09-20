@@ -19,4 +19,4 @@ https://medium.com/@apolyntsev/9-%D0%BF%D1%80%D0%B8%D0%BD%D1%86%D0%B8%D0%BF%D0%B
 
 Анимация
 ------------------------
-* [Анимирование React-компонентов при помощи CSS и Styled-Components [RU]](https://codeburst.io/animating-react-components-with-css-and-styled-components-cc5a0585f105)
+* [Анимирование React-компонентов при помощи CSS и Styled-Components [EN]](https://codeburst.io/animating-react-components-with-css-and-styled-components-cc5a0585f105)
