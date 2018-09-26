@@ -4,7 +4,7 @@
 * [Props и PropTypes в React [EN]](https://css-tricks.com/props-and-proptypes-in-react/)
 * [Основные возможности и тонкости JavaScript, о которых нужно знать при работе с React [EN]](https://www.robinwieruch.de/javascript-fundamentals-react-requirements/)
 * [Создание и защита твоего первого приложения [EN]](https://auth0.com/blog/react-tutorial-building-and-securing-your-first-app/)
-* [React Router 4 практическое руководство [EN]](https://auth0.com/blog/react-router-4-practical-tutorial/)
+
 * [Reach UI, набор доступных компонентов для приложений на React [EN]](https://ui.reach.tech/)
 * [Валидация React Component Props с помощью prop-types [EN]](https://blog.logrocket.com/validating-react-component-props-with-prop-types-ef14b29963fc)
 
@@ -15,6 +15,11 @@ https://medium.com/@apolyntsev/9-%D0%BF%D1%80%D0%B8%D0%BD%D1%86%D0%B8%D0%BF%D0%B
 * [Частые трудности работы с React [RU]](https://itnan.ru/post.php?c=1&p=347458)
 * [Передача данных между компонентами в React [RU]](https://medium.com/@jmuse/%D0%BF%D0%B5%D1%80%D0%B5%D0%B4%D0%B0%D1%87%D0%B0-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85-%D0%BC%D0%B5%D0%B6%D0%B4%D1%83-%D0%BA%D0%BE%D0%BC%D0%BF%D0%BE%D0%BD%D0%B5%D0%BD%D1%82%D0%B0%D0%BC%D0%B8-%D0%B2-react-d86394da2b50
 )
+
+React Router
+------------------------
+* [React Router 4 практическое руководство [EN]](https://auth0.com/blog/react-router-4-practical-tutorial/)
+* [Автостопом по галактике React Router v4 — ваши лучшие друзья! [EN]](https://medium.freecodecamp.org/hitchhikers-guide-to-react-router-v4-4b12e369d10)
 
 Работа с формами
 ------------------------
