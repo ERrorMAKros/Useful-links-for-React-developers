@@ -4,9 +4,9 @@
 * [Props и PropTypes в React [EN]](https://css-tricks.com/props-and-proptypes-in-react/)
 * [Основные возможности и тонкости JavaScript, о которых нужно знать при работе с React [EN]](https://www.robinwieruch.de/javascript-fundamentals-react-requirements/)
 * [Создание и защита твоего первого приложения [EN]](https://auth0.com/blog/react-tutorial-building-and-securing-your-first-app/)
-
 * [Reach UI, набор доступных компонентов для приложений на React [EN]](https://ui.reach.tech/)
 * [Валидация React Component Props с помощью prop-types [EN]](https://blog.logrocket.com/validating-react-component-props-with-prop-types-ef14b29963fc)
+* [Как начать работать с React Context API [EN]](https://medium.freecodecamp.org/how-to-get-started-with-the-react-context-api-ccc41728fa59)
 
 * [Все фундаментальные принципы React, собранные в одной статье [RU]](https://medium.com/@divermak/%D0%B2%D1%81%D0%B5-%D1%84%D1%83%D0%BD%D0%B4%D0%B0%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5-%D0%BF%D1%80%D0%B8%D0%BD%D1%86%D0%B8%D0%BF%D1%8B-react-js-%D1%81%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5-%D0%B2-%D0%BE%D0%B4%D0%BD%D0%BE%D0%B9-%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B5-ec6a97bfd1bf)
 * [React Performance – полное руководство по оптимизации основных проблем производительности в React [RU]](
@@ -15,8 +15,6 @@ https://medium.com/@apolyntsev/9-%D0%BF%D1%80%D0%B8%D0%BD%D1%86%D0%B8%D0%BF%D0%B
 * [Частые трудности работы с React [RU]](https://itnan.ru/post.php?c=1&p=347458)
 * [Передача данных между компонентами в React [RU]](https://medium.com/@jmuse/%D0%BF%D0%B5%D1%80%D0%B5%D0%B4%D0%B0%D1%87%D0%B0-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85-%D0%BC%D0%B5%D0%B6%D0%B4%D1%83-%D0%BA%D0%BE%D0%BC%D0%BF%D0%BE%D0%BD%D0%B5%D0%BD%D1%82%D0%B0%D0%BC%D0%B8-%D0%B2-react-d86394da2b50
 )
-* [Как начать работать с React Context API [EN]](https://medium.freecodecamp.org/how-to-get-started-with-the-react-context-api-ccc41728fa59)
-
 
 React Router
 ------------------------
@@ -27,6 +25,7 @@ React Router
 ------------------------
 * [Работа с формами в React, используя базовый инструментарий [RU]](https://habr.com/post/421817/)
 * [Построение отличных форм в React с использованием Redux-Form [RU]](https://medium.com/freecodecamp-russia-%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D1%8F%D0%B7%D1%8B%D1%87%D0%BD%D1%8B%D0%B9/%D0%BF%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BE%D1%82%D0%BB%D0%B8%D1%87%D0%BD%D1%8B%D1%85-%D1%84%D0%BE%D1%80%D0%BC-%D0%B2-react-%D1%81-%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%D0%BC-redux-form-ff9a4ba77e86)
+* [Делаем Autocomplete-виджет с помощью React и Elastic Search [EN]](https://blog.bitsrc.io/how-to-build-an-autocomplete-widget-with-react-and-elastic-search-dd4f846f784)
 
 Анимация
 ------------------------
