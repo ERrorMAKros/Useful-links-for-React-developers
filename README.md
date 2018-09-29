@@ -20,7 +20,7 @@ https://medium.com/@apolyntsev/9-%D0%BF%D1%80%D0%B8%D0%BD%D1%86%D0%B8%D0%BF%D0%B
 ------------------------
 * [React Router 4 практическое руководство [EN]](https://auth0.com/blog/react-router-4-practical-tutorial/)
 * [Автостопом по галактике React Router v4 [EN]](https://medium.freecodecamp.org/hitchhikers-guide-to-react-router-v4-4b12e369d10)
-* [Маршрутизация в большом приложении на React [RU](https://habr.com/company/rambler-co/blog/424025/)
+* [Маршрутизация в большом приложении на React [RU]](https://habr.com/company/rambler-co/blog/424025/)
 
 Работа с формами
 ------------------------
