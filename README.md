@@ -33,4 +33,8 @@ https://medium.com/@apolyntsev/9-%D0%BF%D1%80%D0%B8%D0%BD%D1%86%D0%B8%D0%BF%D0%B
 * [Анимирование React-компонентов при помощи CSS и Styled-Components [EN]](https://codeburst.io/animating-react-components-with-css-and-styled-components-cc5a0585f105)
 * [React и CSS анимация: инструкция к применению [RU]](https://jetruby.com/ru/blog/css-reactjs-animation/)
 
+Тестирование
+------------------------
+* [Удобный способ тестирования React-компонентов [RU]](https://habr.com/post/421647/)
+
 
