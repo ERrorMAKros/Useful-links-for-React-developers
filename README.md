@@ -10,6 +10,7 @@
 * [6 интересных проектов на React, которые вы можете создать сегодня [EN]](https://daveceddia.com/react-practice-projects/)
 * [Разработка React-приложений с использованием ReasonReact [EN]](https://habr.com/company/ruvds/blog/424965/)
 * [Last call для Create React App v2 [EN]](https://github.com/facebook/create-react-app/issues/5103)
+* [React/JSX в качестве серверного языка шаблонизации [EN]](https://blog.kentcdodds.com/react-jsx-as-a-server-side-templating-language-e238555dbc08)
 
 * [Все фундаментальные принципы React, собранные в одной статье [RU]](https://medium.com/@divermak/%D0%B2%D1%81%D0%B5-%D1%84%D1%83%D0%BD%D0%B4%D0%B0%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5-%D0%BF%D1%80%D0%B8%D0%BD%D1%86%D0%B8%D0%BF%D1%8B-react-js-%D1%81%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5-%D0%B2-%D0%BE%D0%B4%D0%BD%D0%BE%D0%B9-%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B5-ec6a97bfd1bf)
 
