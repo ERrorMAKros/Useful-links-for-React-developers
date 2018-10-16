@@ -58,5 +58,9 @@ https://medium.com/@apolyntsev/9-%D0%BF%D1%80%D0%B8%D0%BD%D1%86%D0%B8%D0%BF%D0%B
 ------------------------
 * [Удобный способ тестирования React-компонентов [RU]](https://habr.com/post/421647/)
 * [Тестирование компонентов в React: что и как тестировать с помощью Jest и Enzyme [EN]](https://medium.freecodecamp.org/components-testing-in-react-what-and-how-to-test-with-jest-and-enzyme-7c1cace99de5)
+* [Тестирование React приложений с помощью react-testing-library [EN]](https://blog.bitsrc.io/testing-react-applications-with-react-testing-library-da66aaef740a)
+
+
+
 
 
