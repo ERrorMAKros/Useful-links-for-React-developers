@@ -12,7 +12,7 @@
 * [Last call для Create React App v2 [EN]](https://github.com/facebook/create-react-app/issues/5103)
 * [React/JSX в качестве серверного языка шаблонизации [EN]](https://blog.kentcdodds.com/react-jsx-as-a-server-side-templating-language-e238555dbc08)
 * [React.js: лучшее представление самой мощной UI библиотеки, когда-либо созданной [EN]](https://hackernoon.com/react-js-a-better-introduction-to-the-most-powerful-ui-library-ever-created-ecd96e8f4621)
-* [11 песочниц для работы с UI компонентами React  [EN]](https://hackernoon.com/react-js-a-better-introduction-to-the-most-powerful-ui-library-ever-created-ecd96e8f4621)
+* [11 песочниц для работы с UI компонентами React  [EN]](https://blog.bitsrc.io/11-react-ui-component-playgrounds-for-2018-eef5a87a1bf8)
 
 
 
