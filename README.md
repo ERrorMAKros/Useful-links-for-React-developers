@@ -14,6 +14,7 @@
 * [React.js: лучшее представление самой мощной UI библиотеки, когда-либо созданной [EN]](https://hackernoon.com/react-js-a-better-introduction-to-the-most-powerful-ui-library-ever-created-ecd96e8f4621)
 * [11 песочниц для работы с UI компонентами React  [EN]](https://blog.bitsrc.io/11-react-ui-component-playgrounds-for-2018-eef5a87a1bf8)
 * [OOP и RxJS: управление состоянием в React с помощью Akita [EN]](https://engineering.datorama.com/oop-and-rxjs-managing-state-in-react-with-akita-de981e09307)
+* [Собеседование на позицию разработчика React с точки зрения рекрутера [EN]](https://medium.com/@baphemot/a-react-job-interview-recruiter-perspective-f1096f54dd16)
 
 
 
