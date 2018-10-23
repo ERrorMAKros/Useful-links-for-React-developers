@@ -34,10 +34,11 @@
 
 React & Redux
 ------------------------
-
+* [Архитектура Redux. Да или нет? [RU]](https://habr.com/company/ruvds/blog/426473/)
 * [Хорошие практики написания кода с React и Redux [EN]](https://blog.scottlogic.com/2018/08/28/Good-code-practices-with-React-and-Redux.html)
 * [Иммутабельность в React и Redux: полное руководство [EN]](https://daveceddia.com/react-redux-immutability-guide/)
 * [Уроки, извлечённые из работы с долгосрочным SPA приложением на React/Redux [EN]](https://notes.devlabs.bg/long-term-react-redux-spa-lessons-learned-14daca3a26ba)
+
 
 Роутинг
 ------------------------
