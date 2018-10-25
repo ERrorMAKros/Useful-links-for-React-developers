@@ -1,37 +1,8 @@
 # Полезные ссылки для React разработчиков
 
-* [Props и PropTypes в React [EN]](https://css-tricks.com/props-and-proptypes-in-react/)
-* [Основные возможности и тонкости JavaScript, о которых нужно знать при работе с React [EN]](https://www.robinwieruch.de/javascript-fundamentals-react-requirements/)
-* [Создание и защита твоего первого приложения [EN]](https://auth0.com/blog/react-tutorial-building-and-securing-your-first-app/)
-* [Reach UI, набор доступных компонентов для приложений на React [EN]](https://ui.reach.tech/)
-* [Валидация React Component Props с помощью prop-types [EN]](https://blog.logrocket.com/validating-react-component-props-with-prop-types-ef14b29963fc)
-* [Как начать работать с React Context API [EN]](https://medium.freecodecamp.org/how-to-get-started-with-the-react-context-api-ccc41728fa59)
-* [Переиспользуемые компоненты в React — практическое руководство [EN]](https://blog.bitsrc.io/reusable-components-in-react-a-practical-guide-ec15a81a4d71)
-* [6 интересных проектов на React, которые вы можете создать сегодня [EN]](https://daveceddia.com/react-practice-projects/)
-* [Разработка React-приложений с использованием ReasonReact [EN]](https://habr.com/company/ruvds/blog/424965/)
-* [Last call для Create React App v2 [EN]](https://github.com/facebook/create-react-app/issues/5103)
-* [React/JSX в качестве серверного языка шаблонизации [EN]](https://blog.kentcdodds.com/react-jsx-as-a-server-side-templating-language-e238555dbc08)
-* [React.js: лучшее представление самой мощной UI библиотеки, когда-либо созданной [EN]](https://hackernoon.com/react-js-a-better-introduction-to-the-most-powerful-ui-library-ever-created-ecd96e8f4621)
-* [11 песочниц для работы с UI компонентами React  [EN]](https://blog.bitsrc.io/11-react-ui-component-playgrounds-for-2018-eef5a87a1bf8)
-* [OOP и RxJS: управление состоянием в React с помощью Akita [EN]](https://engineering.datorama.com/oop-and-rxjs-managing-state-in-react-with-akita-de981e09307)
-* [Как применять принципы SOLID в приложения на React [EN]](https://blog.usejournal.com/how-to-apply-solid-principles-in-react-applications-6c964091a982)
-* [Собеседование на позицию разработчика React с точки зрения рекрутера [EN]](https://medium.com/@baphemot/a-react-job-interview-recruiter-perspective-f1096f54dd16)
-
-
-
-* [Все фундаментальные принципы React, собранные в одной статье [RU]](https://medium.com/@divermak/%D0%B2%D1%81%D0%B5-%D1%84%D1%83%D0%BD%D0%B4%D0%B0%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5-%D0%BF%D1%80%D0%B8%D0%BD%D1%86%D0%B8%D0%BF%D1%8B-react-js-%D1%81%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5-%D0%B2-%D0%BE%D0%B4%D0%BD%D0%BE%D0%B9-%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B5-ec6a97bfd1bf)
-* [Как стать React разработчиком в 2018 году [RU]](https://habr.com/company/mailru/blog/425821/)
-
-
-* [Функциональный setState() — это будущее React. [RU]](https://medium.com/@WoTzap/%D1%84%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9-setstate-%D1%8D%D1%82%D0%BE-%D0%B1%D1%83%D0%B4%D1%83%D1%89%D0%B5%D0%B5-react-d262be6a6c02)
-* [Частые трудности работы с React [RU]](https://itnan.ru/post.php?c=1&p=347458)
-* [Передача данных между компонентами в React [RU]](https://medium.com/@jmuse/%D0%BF%D0%B5%D1%80%D0%B5%D0%B4%D0%B0%D1%87%D0%B0-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85-%D0%BC%D0%B5%D0%B6%D0%B4%D1%83-%D0%BA%D0%BE%D0%BC%D0%BF%D0%BE%D0%BD%D0%B5%D0%BD%D1%82%D0%B0%D0%BC%D0%B8-%D0%B2-react-d86394da2b50
-)
-* [Незнание основ React, которое, возможно, вас губит [RU]](https://blog.bitsrc.io/11-react-ui-component-playgrounds-for-2018-eef5a87a1bf8)
-
-
-
-
+CSS IN JS
+------------------------
+* [Финальный релиз styled-components v4 [RU]](https://medium.com/styled-components/styled-components-v4-new-final-finalest-for-real-final-final-psd-fa4d83398a77)
 
 React & Redux
 ------------------------
@@ -71,6 +42,39 @@ https://medium.com/@apolyntsev/9-%D0%BF%D1%80%D0%B8%D0%BD%D1%86%D0%B8%D0%BF%D0%B
 * [Удобный способ тестирования React-компонентов [RU]](https://habr.com/post/421647/)
 * [Тестирование компонентов в React: что и как тестировать с помощью Jest и Enzyme [EN]](https://medium.freecodecamp.org/components-testing-in-react-what-and-how-to-test-with-jest-and-enzyme-7c1cace99de5)
 * [Тестирование React приложений с помощью react-testing-library [EN]](https://blog.bitsrc.io/testing-react-applications-with-react-testing-library-da66aaef740a)
+
+
+---------------------------------------
+
+* [Props и PropTypes в React [EN]](https://css-tricks.com/props-and-proptypes-in-react/)
+* [Основные возможности и тонкости JavaScript, о которых нужно знать при работе с React [EN]](https://www.robinwieruch.de/javascript-fundamentals-react-requirements/)
+* [Создание и защита твоего первого приложения [EN]](https://auth0.com/blog/react-tutorial-building-and-securing-your-first-app/)
+* [Reach UI, набор доступных компонентов для приложений на React [EN]](https://ui.reach.tech/)
+* [Валидация React Component Props с помощью prop-types [EN]](https://blog.logrocket.com/validating-react-component-props-with-prop-types-ef14b29963fc)
+* [Как начать работать с React Context API [EN]](https://medium.freecodecamp.org/how-to-get-started-with-the-react-context-api-ccc41728fa59)
+* [Переиспользуемые компоненты в React — практическое руководство [EN]](https://blog.bitsrc.io/reusable-components-in-react-a-practical-guide-ec15a81a4d71)
+* [6 интересных проектов на React, которые вы можете создать сегодня [EN]](https://daveceddia.com/react-practice-projects/)
+* [Разработка React-приложений с использованием ReasonReact [EN]](https://habr.com/company/ruvds/blog/424965/)
+* [Last call для Create React App v2 [EN]](https://github.com/facebook/create-react-app/issues/5103)
+* [React/JSX в качестве серверного языка шаблонизации [EN]](https://blog.kentcdodds.com/react-jsx-as-a-server-side-templating-language-e238555dbc08)
+* [React.js: лучшее представление самой мощной UI библиотеки, когда-либо созданной [EN]](https://hackernoon.com/react-js-a-better-introduction-to-the-most-powerful-ui-library-ever-created-ecd96e8f4621)
+* [11 песочниц для работы с UI компонентами React  [EN]](https://blog.bitsrc.io/11-react-ui-component-playgrounds-for-2018-eef5a87a1bf8)
+* [OOP и RxJS: управление состоянием в React с помощью Akita [EN]](https://engineering.datorama.com/oop-and-rxjs-managing-state-in-react-with-akita-de981e09307)
+* [Как применять принципы SOLID в приложения на React [EN]](https://blog.usejournal.com/how-to-apply-solid-principles-in-react-applications-6c964091a982)
+* [Собеседование на позицию разработчика React с точки зрения рекрутера [EN]](https://medium.com/@baphemot/a-react-job-interview-recruiter-perspective-f1096f54dd16)
+
+
+
+* [Все фундаментальные принципы React, собранные в одной статье [RU]](https://medium.com/@divermak/%D0%B2%D1%81%D0%B5-%D1%84%D1%83%D0%BD%D0%B4%D0%B0%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5-%D0%BF%D1%80%D0%B8%D0%BD%D1%86%D0%B8%D0%BF%D1%8B-react-js-%D1%81%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5-%D0%B2-%D0%BE%D0%B4%D0%BD%D0%BE%D0%B9-%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B5-ec6a97bfd1bf)
+* [Как стать React разработчиком в 2018 году [RU]](https://habr.com/company/mailru/blog/425821/)
+
+
+* [Функциональный setState() — это будущее React. [RU]](https://medium.com/@WoTzap/%D1%84%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9-setstate-%D1%8D%D1%82%D0%BE-%D0%B1%D1%83%D0%B4%D1%83%D1%89%D0%B5%D0%B5-react-d262be6a6c02)
+* [Частые трудности работы с React [RU]](https://itnan.ru/post.php?c=1&p=347458)
+* [Передача данных между компонентами в React [RU]](https://medium.com/@jmuse/%D0%BF%D0%B5%D1%80%D0%B5%D0%B4%D0%B0%D1%87%D0%B0-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85-%D0%BC%D0%B5%D0%B6%D0%B4%D1%83-%D0%BA%D0%BE%D0%BC%D0%BF%D0%BE%D0%BD%D0%B5%D0%BD%D1%82%D0%B0%D0%BC%D0%B8-%D0%B2-react-d86394da2b50
+)
+* [Незнание основ React, которое, возможно, вас губит [RU]](https://blog.bitsrc.io/11-react-ui-component-playgrounds-for-2018-eef5a87a1bf8)
+
 
 
 
