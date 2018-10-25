@@ -2,7 +2,7 @@
 
 CSS IN JS
 ------------------------
-* [Финальный релиз styled-components v4 [RU]](https://medium.com/styled-components/styled-components-v4-new-final-finalest-for-real-final-final-psd-fa4d83398a77)
+* [Финальный релиз styled-components v4 [EN]](https://medium.com/styled-components/styled-components-v4-new-final-finalest-for-real-final-final-psd-fa4d83398a77)
 
 React & Redux
 ------------------------
