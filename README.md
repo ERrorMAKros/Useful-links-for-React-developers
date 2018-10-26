@@ -1,4 +1,6 @@
-# Полезные ссылки для React разработчиков
+
+![](https://github.com/Wremeker/Useful-links-for-React-developers/blob/master/image.png)
+---------------------------------------
 
 CSS IN JS
 ------------------------
