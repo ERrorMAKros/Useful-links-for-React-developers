@@ -64,6 +64,7 @@ https://medium.com/@apolyntsev/9-%D0%BF%D1%80%D0%B8%D0%BD%D1%86%D0%B8%D0%BF%D0%B
 * [OOP и RxJS: управление состоянием в React с помощью Akita [EN]](https://engineering.datorama.com/oop-and-rxjs-managing-state-in-react-with-akita-de981e09307)
 * [Как применять принципы SOLID в приложения на React [EN]](https://blog.usejournal.com/how-to-apply-solid-principles-in-react-applications-6c964091a982)
 * [Собеседование на позицию разработчика React с точки зрения рекрутера [EN]](https://medium.com/@baphemot/a-react-job-interview-recruiter-perspective-f1096f54dd16)
+* [Профилирование React компонентов с User Timing API [EN]](https://www.telerik.com/blogs/profiling-react-components-with-the-user-timing-api)
 
 
 
