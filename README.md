@@ -26,6 +26,7 @@ React & Redux
 https://medium.com/@apolyntsev/9-%D0%BF%D1%80%D0%B8%D0%BD%D1%86%D0%B8%D0%BF%D0%BE%D0%B2-%D0%BA%D0%BE%D1%82%D0%BE%D1%80%D1%8B%D0%B5-%D0%B4%D0%BE%D0%BB%D0%B6%D0%B5%D0%BD-%D0%B7%D0%BD%D0%B0%D1%82%D1%8C-%D0%BD%D0%BE%D0%B2%D0%B8%D1%87%D0%BE%D0%BA-%D0%B2-react-js-454e964062b)
 * [Практический React: управляем рендерингом - производительность [RU]](http://jem-space.ru/praktichieskii-react-upravliaiem-riendieringhom-musor-i-pierformans/)
 * [Кэширование обработчиков событий и улучшение производительности React-приложений [RU]](https://habr.com/company/ruvds/blog/426053/)
+* [Профилирование React компонентов с User Timing API [EN]](https://www.telerik.com/blogs/profiling-react-components-with-the-user-timing-api)
 
 Работа с формами
 ------------------------
@@ -64,7 +65,7 @@ https://medium.com/@apolyntsev/9-%D0%BF%D1%80%D0%B8%D0%BD%D1%86%D0%B8%D0%BF%D0%B
 * [OOP и RxJS: управление состоянием в React с помощью Akita [EN]](https://engineering.datorama.com/oop-and-rxjs-managing-state-in-react-with-akita-de981e09307)
 * [Как применять принципы SOLID в приложения на React [EN]](https://blog.usejournal.com/how-to-apply-solid-principles-in-react-applications-6c964091a982)
 * [Собеседование на позицию разработчика React с точки зрения рекрутера [EN]](https://medium.com/@baphemot/a-react-job-interview-recruiter-perspective-f1096f54dd16)
-* [Профилирование React компонентов с User Timing API [EN]](https://www.telerik.com/blogs/profiling-react-components-with-the-user-timing-api)
+
 
 
 
