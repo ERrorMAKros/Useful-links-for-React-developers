@@ -5,6 +5,9 @@
 CSS IN JS
 ------------------------
 * [Финальный релиз styled-components v4 [EN]](https://medium.com/styled-components/styled-components-v4-new-final-finalest-for-real-final-final-psd-fa4d83398a77)
+* [Styled components V4: хорошее, плохое, и что-то совсем другое [EN]](https://medium.com/ansarada-thinking/styled-components-v4-the-good-the-bad-and-something-completely-different-e891139e0138)
+
+ 
 
 React & Redux
 ------------------------
