@@ -30,6 +30,7 @@ https://medium.com/@apolyntsev/9-%D0%BF%D1%80%D0%B8%D0%BD%D1%86%D0%B8%D0%BF%D0%B
 * [Практический React: управляем рендерингом - производительность [RU]](http://jem-space.ru/praktichieskii-react-upravliaiem-riendieringhom-musor-i-pierformans/)
 * [Кэширование обработчиков событий и улучшение производительности React-приложений [RU]](https://habr.com/company/ruvds/blog/426053/)
 * [Профилирование React компонентов с User Timing API [EN]](https://www.telerik.com/blogs/profiling-react-components-with-the-user-timing-api)
+* [Использование React Profiler для производительности [EN]](https://scotch.io/tutorials/use-the-react-profiler-for-performance)
 
 Работа с формами
 ------------------------
