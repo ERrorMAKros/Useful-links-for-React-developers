@@ -70,6 +70,7 @@ https://medium.com/@apolyntsev/9-%D0%BF%D1%80%D0%B8%D0%BD%D1%86%D0%B8%D0%BF%D0%B
 * [Как применять принципы SOLID в приложения на React [EN]](https://blog.usejournal.com/how-to-apply-solid-principles-in-react-applications-6c964091a982)
 * [Собеседование на позицию разработчика React с точки зрения рекрутера [EN]](https://medium.com/@baphemot/a-react-job-interview-recruiter-perspective-f1096f54dd16)
 * [ Что нового в React 16.6 [EN]](https://scotch.io/bar-talk/whats-new-in-react-166)
+* [ React.memo() для Functional Components Rendering Control [EN]](https://scotch.io/tutorials/react-166-reactmemo-for-functional-components-rendering-control)
 
 ---------------------------------------
 
