@@ -2,12 +2,16 @@
 ![](https://github.com/Wremeker/Useful-links-for-React-developers/blob/master/image.png)
 ---------------------------------------
 
+
+Javascript
+------------------------
+* [Основные возможности и тонкости JavaScript, о которых нужно знать при работе с React [EN]](https://www.robinwieruch.de/javascript-fundamentals-react-requirements/)
+
 CSS IN JS
 ------------------------
 * [Финальный релиз styled-components v4 [EN]](https://medium.com/styled-components/styled-components-v4-new-final-finalest-for-real-final-final-psd-fa4d83398a77)
 * [Styled components V4: хорошее, плохое, и что-то совсем другое [EN]](https://medium.com/ansarada-thinking/styled-components-v4-the-good-the-bad-and-something-completely-different-e891139e0138)
 
- 
 
 React & Redux
 ------------------------
@@ -54,7 +58,7 @@ https://medium.com/@apolyntsev/9-%D0%BF%D1%80%D0%B8%D0%BD%D1%86%D0%B8%D0%BF%D0%B
 ---------------------------------------
 
 * [Props и PropTypes в React [EN]](https://css-tricks.com/props-and-proptypes-in-react/)
-* [Основные возможности и тонкости JavaScript, о которых нужно знать при работе с React [EN]](https://www.robinwieruch.de/javascript-fundamentals-react-requirements/)
+
 * [Создание и защита твоего первого приложения [EN]](https://auth0.com/blog/react-tutorial-building-and-securing-your-first-app/)
 * [Reach UI, набор доступных компонентов для приложений на React [EN]](https://ui.reach.tech/)
 * [Валидация React Component Props с помощью prop-types [EN]](https://blog.logrocket.com/validating-react-component-props-with-prop-types-ef14b29963fc)
@@ -71,6 +75,9 @@ https://medium.com/@apolyntsev/9-%D0%BF%D1%80%D0%B8%D0%BD%D1%86%D0%B8%D0%BF%D0%B
 * [Собеседование на позицию разработчика React с точки зрения рекрутера [EN]](https://medium.com/@baphemot/a-react-job-interview-recruiter-perspective-f1096f54dd16)
 * [ Что нового в React 16.6 [EN]](https://scotch.io/bar-talk/whats-new-in-react-166)
 * [ React.memo() для Functional Components Rendering Control [EN]](https://scotch.io/tutorials/react-166-reactmemo-for-functional-components-rendering-control)
+* [ Чистые функциональные компоненты в React [EN]](https://logrocket.com/blog/pure-functional-components/)
+
+
 
 ---------------------------------------
 
