@@ -20,6 +20,10 @@ React & Redux
 * [Иммутабельность в React и Redux: полное руководство [EN]](https://daveceddia.com/react-redux-immutability-guide/)
 * [Уроки, извлечённые из работы с долгосрочным SPA приложением на React/Redux [EN]](https://notes.devlabs.bg/long-term-react-redux-spa-lessons-learned-14daca3a26ba)
 
+React Hooks
+------------------------
+* [ Начинаем работать с React Hooks [RU]](https://scotch.io/tutorials/getting-started-with-react-hooks)
+
 
 Роутинг
 ------------------------
@@ -76,6 +80,7 @@ https://medium.com/@apolyntsev/9-%D0%BF%D1%80%D0%B8%D0%BD%D1%86%D0%B8%D0%BF%D0%B
 * [ Что нового в React 16.6 [EN]](https://scotch.io/bar-talk/whats-new-in-react-166)
 * [ React.memo() для Functional Components Rendering Control [EN]](https://scotch.io/tutorials/react-166-reactmemo-for-functional-components-rendering-control)
 * [ Чистые функциональные компоненты в React [EN]](https://logrocket.com/blog/pure-functional-components/)
+
 
 
 
