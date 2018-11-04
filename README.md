@@ -25,13 +25,13 @@ React Hooks
 * [ Начинаем работать с React Hooks [RU]](https://scotch.io/tutorials/getting-started-with-react-hooks)
 
 
-Роутинг
+Routing
 ------------------------
 * [React Router 4 практическое руководство [EN]](https://auth0.com/blog/react-router-4-practical-tutorial/)
 * [Автостопом по галактике React Router v4 [EN]](https://medium.freecodecamp.org/hitchhikers-guide-to-react-router-v4-4b12e369d10)
 * [Маршрутизация в большом приложении на React [RU]](https://habr.com/company/rambler-co/blog/424025/)
 
-Производительность
+Performance
 ------------------------
 * [React Performance – полное руководство по оптимизации основных проблем производительности в React [RU]](
 https://medium.com/@apolyntsev/9-%D0%BF%D1%80%D0%B8%D0%BD%D1%86%D0%B8%D0%BF%D0%BE%D0%B2-%D0%BA%D0%BE%D1%82%D0%BE%D1%80%D1%8B%D0%B5-%D0%B4%D0%BE%D0%BB%D0%B6%D0%B5%D0%BD-%D0%B7%D0%BD%D0%B0%D1%82%D1%8C-%D0%BD%D0%BE%D0%B2%D0%B8%D1%87%D0%BE%D0%BA-%D0%B2-react-js-454e964062b)
@@ -46,20 +46,20 @@ https://medium.com/@apolyntsev/9-%D0%BF%D1%80%D0%B8%D0%BD%D1%86%D0%B8%D0%BF%D0%B
 * [Построение отличных форм в React с использованием Redux-Form [RU]](https://medium.com/freecodecamp-russia-%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D1%8F%D0%B7%D1%8B%D1%87%D0%BD%D1%8B%D0%B9/%D0%BF%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BE%D1%82%D0%BB%D0%B8%D1%87%D0%BD%D1%8B%D1%85-%D1%84%D0%BE%D1%80%D0%BC-%D0%B2-react-%D1%81-%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%D0%BC-redux-form-ff9a4ba77e86)
 * [Делаем Autocomplete-виджет с помощью React и Elastic Search [EN]](https://blog.bitsrc.io/how-to-build-an-autocomplete-widget-with-react-and-elastic-search-dd4f846f784)
 
-Анимация
+Animation
 ------------------------
 * [Анимирование React-компонентов при помощи CSS и Styled-Components [EN]](https://codeburst.io/animating-react-components-with-css-and-styled-components-cc5a0585f105)
 * [React и CSS анимация: инструкция к применению [RU]](https://jetruby.com/ru/blog/css-reactjs-animation/)
 * [Начинаем работать с React и GSAP Animations [EN]](https://greensock.com/react)
 
-Тестирование
+Testing
 ------------------------
 * [Удобный способ тестирования React-компонентов [RU]](https://habr.com/post/421647/)
 * [Тестирование компонентов в React: что и как тестировать с помощью Jest и Enzyme [EN]](https://medium.freecodecamp.org/components-testing-in-react-what-and-how-to-test-with-jest-and-enzyme-7c1cace99de5)
 * [Тестирование React приложений с помощью react-testing-library [EN]](https://blog.bitsrc.io/testing-react-applications-with-react-testing-library-da66aaef740a)
 
-
----------------------------------------
+Other
+------------------------
 
 * [Props и PropTypes в React [EN]](https://css-tricks.com/props-and-proptypes-in-react/)
 
