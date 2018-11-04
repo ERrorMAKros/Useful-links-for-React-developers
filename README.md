@@ -5,12 +5,12 @@
 
 Javascript
 ------------------------
-* [Основные возможности и тонкости JavaScript, о которых нужно знать при работе с React [EN]](https://www.robinwieruch.de/javascript-fundamentals-react-requirements/)
+* [Основные возможности и тонкости JavaScript, о которых нужно знать при работе с React :us:](https://www.robinwieruch.de/javascript-fundamentals-react-requirements/)
 
 CSS IN JS
 ------------------------
-* [Финальный релиз styled-components v4 [EN]](https://medium.com/styled-components/styled-components-v4-new-final-finalest-for-real-final-final-psd-fa4d83398a77)
-* [Styled components V4: хорошее, плохое, и что-то совсем другое [EN]](https://medium.com/ansarada-thinking/styled-components-v4-the-good-the-bad-and-something-completely-different-e891139e0138)
+* [Финальный релиз styled-components v4 :us:](https://medium.com/styled-components/styled-components-v4-new-final-finalest-for-real-final-final-psd-fa4d83398a77)
+* [Styled components V4: хорошее, плохое, и что-то совсем другое :us:](https://medium.com/ansarada-thinking/styled-components-v4-the-good-the-bad-and-something-completely-different-e891139e0138)
 
 
 React & Redux
@@ -27,9 +27,10 @@ React Hooks
 
 Роутинг (Routing)
 ------------------------
+* [Маршрутизация в большом приложении на React :ru:](https://habr.com/company/rambler-co/blog/424025/)
 * [React Router 4 практическое руководство :us:](https://auth0.com/blog/react-router-4-practical-tutorial/)
 * [Автостопом по галактике React Router v4 :us:](https://medium.freecodecamp.org/hitchhikers-guide-to-react-router-v4-4b12e369d10)
-* [Маршрутизация в большом приложении на React :ru:](https://habr.com/company/rambler-co/blog/424025/)
+
 
 Производительность (Performance)
 ------------------------
@@ -48,8 +49,8 @@ https://medium.com/@apolyntsev/9-%D0%BF%D1%80%D0%B8%D0%BD%D1%86%D0%B8%D0%BF%D0%B
 
 Анимация (Animation)
 ------------------------
-* [Анимирование React-компонентов при помощи CSS и Styled-Components :us:](https://codeburst.io/animating-react-components-with-css-and-styled-components-cc5a0585f105)
 * [React и CSS анимация: инструкция к применению :ru:](https://jetruby.com/ru/blog/css-reactjs-animation/)
+* [Анимирование React-компонентов при помощи CSS и Styled-Components :us:](https://codeburst.io/animating-react-components-with-css-and-styled-components-cc5a0585f105)
 * [Начинаем работать с React и GSAP Animations :us:](https://greensock.com/react)
 
 Тестирование (Testing)
@@ -61,6 +62,15 @@ https://medium.com/@apolyntsev/9-%D0%BF%D1%80%D0%B8%D0%BD%D1%86%D0%B8%D0%BF%D0%B
 Прочее (Other)
 ------------------------
 
+* [Все фундаментальные принципы React, собранные в одной статье :ru:](https://medium.com/@divermak/%D0%B2%D1%81%D0%B5-%D1%84%D1%83%D0%BD%D0%B4%D0%B0%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5-%D0%BF%D1%80%D0%B8%D0%BD%D1%86%D0%B8%D0%BF%D1%8B-react-js-%D1%81%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5-%D0%B2-%D0%BE%D0%B4%D0%BD%D0%BE%D0%B9-%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B5-ec6a97bfd1bf)
+* [Как стать React разработчиком в 2018 году :ru:](https://habr.com/company/mailru/blog/425821/)
+
+* [Функциональный setState() — это будущее React. :ru:](https://medium.com/@WoTzap/%D1%84%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9-setstate-%D1%8D%D1%82%D0%BE-%D0%B1%D1%83%D0%B4%D1%83%D1%89%D0%B5%D0%B5-react-d262be6a6c02)
+* [Частые трудности работы с React :ru:](https://itnan.ru/post.php?c=1&p=347458)
+* [Передача данных между компонентами в React :ru:](https://medium.com/@jmuse/%D0%BF%D0%B5%D1%80%D0%B5%D0%B4%D0%B0%D1%87%D0%B0-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85-%D0%BC%D0%B5%D0%B6%D0%B4%D1%83-%D0%BA%D0%BE%D0%BC%D0%BF%D0%BE%D0%BD%D0%B5%D0%BD%D1%82%D0%B0%D0%BC%D0%B8-%D0%B2-react-d86394da2b50
+)
+* [Незнание основ React, которое, возможно, вас губит :ru:](https://blog.bitsrc.io/11-react-ui-component-playgrounds-for-2018-eef5a87a1bf8)
+---------------------------------------
 * [Props и PropTypes в React :us:](https://css-tricks.com/props-and-proptypes-in-react/)
 * [Создание и защита твоего первого приложения :us:](https://auth0.com/blog/react-tutorial-building-and-securing-your-first-app/)
 * [Reach UI, набор доступных компонентов для приложений на React :us:](https://ui.reach.tech/)
@@ -79,20 +89,6 @@ https://medium.com/@apolyntsev/9-%D0%BF%D1%80%D0%B8%D0%BD%D1%86%D0%B8%D0%BF%D0%B
 * [ Что нового в React 16.6 :us:](https://scotch.io/bar-talk/whats-new-in-react-166)
 * [ React.memo() для Functional Components Rendering Control :us:](https://scotch.io/tutorials/react-166-reactmemo-for-functional-components-rendering-control)
 * [ Чистые функциональные компоненты в React :us:](https://logrocket.com/blog/pure-functional-components/)
-
-
-
-
----------------------------------------
-
-* [Все фундаментальные принципы React, собранные в одной статье :ru:](https://medium.com/@divermak/%D0%B2%D1%81%D0%B5-%D1%84%D1%83%D0%BD%D0%B4%D0%B0%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5-%D0%BF%D1%80%D0%B8%D0%BD%D1%86%D0%B8%D0%BF%D1%8B-react-js-%D1%81%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5-%D0%B2-%D0%BE%D0%B4%D0%BD%D0%BE%D0%B9-%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B5-ec6a97bfd1bf)
-* [Как стать React разработчиком в 2018 году :ru:](https://habr.com/company/mailru/blog/425821/)
-
-* [Функциональный setState() — это будущее React. :ru:](https://medium.com/@WoTzap/%D1%84%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9-setstate-%D1%8D%D1%82%D0%BE-%D0%B1%D1%83%D0%B4%D1%83%D1%89%D0%B5%D0%B5-react-d262be6a6c02)
-* [Частые трудности работы с React :ru:](https://itnan.ru/post.php?c=1&p=347458)
-* [Передача данных между компонентами в React :ru:](https://medium.com/@jmuse/%D0%BF%D0%B5%D1%80%D0%B5%D0%B4%D0%B0%D1%87%D0%B0-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85-%D0%BC%D0%B5%D0%B6%D0%B4%D1%83-%D0%BA%D0%BE%D0%BC%D0%BF%D0%BE%D0%BD%D0%B5%D0%BD%D1%82%D0%B0%D0%BC%D0%B8-%D0%B2-react-d86394da2b50
-)
-* [Незнание основ React, которое, возможно, вас губит :ru:](https://blog.bitsrc.io/11-react-ui-component-playgrounds-for-2018-eef5a87a1bf8)
 ---------------------------------------
 
 
