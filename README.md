@@ -23,6 +23,8 @@ React & Redux
 React Hooks
 ------------------------
 * [ Начинаем работать с React Hooks :us:](https://scotch.io/tutorials/getting-started-with-react-hooks)
+* [ React hooks: никакой магии, просто массивы :us:](https://medium.com/@ryardley/react-hooks-not-magic-just-arrays-cd4f1857236e)
+
 
 
 Роутинг (Routing)
