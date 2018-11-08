@@ -25,7 +25,8 @@ React Hooks
 * [ Начинаем работать с React Hooks :us:](https://scotch.io/tutorials/getting-started-with-react-hooks)
 * [ React hooks: никакой магии, просто массивы :us:](https://medium.com/@ryardley/react-hooks-not-magic-just-arrays-cd4f1857236e)
 * [ Разбираемся c React Hooks (Дэн Абрамов) :us:](https://medium.com/@dan_abramov/making-sense-of-react-hooks-fdbde8803889)
-
+* [ Коллекция React Hooks :us:](https://hackernoon.com/a-different-way-to-manage-state-in-react-2d21dfb94482)
+ 
 
 
 
