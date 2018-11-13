@@ -97,7 +97,10 @@ https://medium.com/@apolyntsev/9-%D0%BF%D1%80%D0%B8%D0%BD%D1%86%D0%B8%D0%BF%D0%B
 * [ Что нового в React 16.6 :us:](https://scotch.io/bar-talk/whats-new-in-react-166)
 * [ React.memo() для Functional Components Rendering Control :us:](https://scotch.io/tutorials/react-166-reactmemo-for-functional-components-rendering-control)
 * [ Чистые функциональные компоненты в React :us:](https://logrocket.com/blog/pure-functional-components/)
+* [ Имплементация плавного скроллинга в React :us:](https://scotch.io/tutorials/implementing-smooth-scrolling-in-react)
 ---------------------------------------
+
+
 
 
 
