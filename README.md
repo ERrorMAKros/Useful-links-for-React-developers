@@ -6,6 +6,9 @@
 Javascript
 ------------------------
 * [Основные возможности и тонкости JavaScript, о которых нужно знать при работе с React :us:](https://www.robinwieruch.de/javascript-fundamentals-react-requirements/)
+* [10 вещей, которые нужно выучить по пути к становлению мастером JavaScript :us:](https://levelup.gitconnected.com/10-things-to-learn-on-the-way-to-become-a-javascript-master-f4fc632b2bb7)
+
+
 
 CSS IN JS
 ------------------------
