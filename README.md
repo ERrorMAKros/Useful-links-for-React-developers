@@ -102,6 +102,7 @@ https://medium.com/@apolyntsev/9-%D0%BF%D1%80%D0%B8%D0%BD%D1%86%D0%B8%D0%BF%D0%B
 * [ Чистые функциональные компоненты в React :us:](https://logrocket.com/blog/pure-functional-components/)
 * [ Имплементация плавного скроллинга в React :us:](https://scotch.io/tutorials/implementing-smooth-scrolling-in-react)
 * [ 5 вещей, которых я не знал о Create React App :us:](https://www.telerik.com/blogs/5-things-i-didnt-know-about-create-react-app)
+* [ React Suspense c Fetch API :us:](https://medium.com/@Charles_Stover/react-suspense-with-the-fetch-api-a1b7369b0469)
 ---------------------------------------
 
 
