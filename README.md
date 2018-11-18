@@ -31,6 +31,7 @@ React Hooks
 * [ Разбираемся c React Hooks (Дэн Абрамов) :us:](https://medium.com/@dan_abramov/making-sense-of-react-hooks-fdbde8803889)
 * [ Коллекция React Hooks :us:](https://hackernoon.com/a-different-way-to-manage-state-in-react-2d21dfb94482)
 * [ Введение в хуки React :us:](https://www.fullstackreact.com/articles/an-introduction-to-hooks-in-react/)
+* [ Почему React Hooks, и как вы вообще до этого дошли? :us:](https://medium.freecodecamp.org/why-react-hooks-and-how-did-we-even-get-here-aa5ed5dc96af)
 
  
 
