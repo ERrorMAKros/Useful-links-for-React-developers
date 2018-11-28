@@ -38,6 +38,9 @@ React Hooks
 * [ Введение в хуки React :us:](https://www.fullstackreact.com/articles/an-introduction-to-hooks-in-react/)
 * [ Почему React Hooks, и как вы вообще до этого дошли? :us:](https://medium.freecodecamp.org/why-react-hooks-and-how-did-we-even-get-here-aa5ed5dc96af)
 * [ Простое переиспользование код с помощью React Hooks :us:](https://blog.bitsrc.io/simple-code-reuse-with-react-hooks-432f390696bf)
+* [ Сквозная функциональность в React с использованием компонентов высокого порядка, Render Props и хуков :us:](https://pawelgrzybek.com/cross-cutting-functionality-in-react-using-higher-order-components-render-props-and-hooks/)
+ 
+ 
  
 
 
