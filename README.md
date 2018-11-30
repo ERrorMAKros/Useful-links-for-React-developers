@@ -28,6 +28,9 @@ React & Redux
 * [Иммутабельность в React и Redux: полное руководство :us:](https://daveceddia.com/react-redux-immutability-guide/)
 * [Уроки, извлечённые из работы с долгосрочным SPA приложением на React/Redux :us:](https://notes.devlabs.bg/long-term-react-redux-spa-lessons-learned-14daca3a26ba)
 * [Redux в двух словах для React-разработчиков (хинт: это не сложно) :us:](https://blog.usejournal.com/redux-in-a-nutshell-for-react-developers-hint-its-not-that-complex-d55041adf99d)
+* [Idiomatic Redux: история имплементации React-Redux:us:](https://blog.isquaredsoftware.com/2018/11/react-redux-history-implementation/)
+
+
 
 React Hooks
 ------------------------
