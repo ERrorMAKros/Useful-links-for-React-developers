@@ -75,6 +75,10 @@ https://medium.com/@apolyntsev/9-%D0%BF%D1%80%D0%B8%D0%BD%D1%86%D0%B8%D0%BF%D0%B
 * [React и CSS анимация: инструкция к применению :ru:](https://jetruby.com/ru/blog/css-reactjs-animation/)
 * [Анимирование React-компонентов при помощи CSS и Styled-Components :us:](https://codeburst.io/animating-react-components-with-css-and-styled-components-cc5a0585f105)
 * [Начинаем работать с React и GSAP Animations :us:](https://greensock.com/react)
+* [Создание анимированных приложений на React с помощью React Spring :us:](https://scotch.io/tutorials/create-animated-react-apps-with-react-spring)
+
+
+
 
 Тестирование (Testing)
 ------------------------
