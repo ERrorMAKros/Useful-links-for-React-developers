@@ -63,6 +63,9 @@ https://medium.com/@apolyntsev/9-%D0%BF%D1%80%D0%B8%D0%BD%D1%86%D0%B8%D0%BF%D0%B
 * [Кэширование обработчиков событий и улучшение производительности React-приложений :ru:](https://habr.com/company/ruvds/blog/426053/)
 * [Профилирование React компонентов с User Timing API :us:](https://www.telerik.com/blogs/profiling-react-components-with-the-user-timing-api)
 * [Использование React Profiler для производительности :us:](https://scotch.io/tutorials/use-the-react-profiler-for-performance)
+* [Советы по оптимизации React  :us:](https://itnext.io/react-optimization-tips-224c66b4b30d)
+
+
 
 Работа с формами (Working with forms) 
 ------------------------
