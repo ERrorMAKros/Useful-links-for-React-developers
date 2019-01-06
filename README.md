@@ -127,6 +127,9 @@ https://medium.com/@apolyntsev/9-%D0%BF%D1%80%D0%B8%D0%BD%D1%86%D0%B8%D0%BF%D0%B
 * [ React Suspense c Fetch API :us:](https://medium.com/@Charles_Stover/react-suspense-with-the-fetch-api-a1b7369b0469)
 * [ Как React отличает класс от функции? :us:](https://overreacted.io/how-does-react-tell-a-class-from-a-function/)
 * [  Компоновка компонентов в React с использованием Context API  :us:](https://css-tricks.com/compound-components-in-react-using-the-context-api/)
+* [  Вопросы для собеседования по React/Redux  :us:](https://medium.com/@sepineda/react-redux-interview-questions-b7f6611823f)
+
+
 
 
 
